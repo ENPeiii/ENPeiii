@@ -1,10 +1,6 @@
 <h1 align="center">Hi👋, I'm ENPei</h1>
 <h3 align="center">A Frontend Engineer Who Believes in the Art of Code</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ENPeiii&label=Profile%20views&color=0e75b6&style=flat" alt="ENPeiii" />
-</p>
-
 ---
 
 ### 🚀 About Me
